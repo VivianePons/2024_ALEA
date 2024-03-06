@@ -1,0 +1,12 @@
+# Logiciels requis pour utiliser et travailler sur le cours projet math-info
+name: jupyter-sage
+
+channels:
+- conda-forge
+
+dependencies:
+- jupyterlab
+- sage
+
+
+
